@@ -1,0 +1,7 @@
+riv
+.claude/*
+.agents/*
+powershell.bat
+node_modules/
+
+skills-lock.json
