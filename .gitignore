@@ -3,5 +3,5 @@ riv
 .agents/*
 powershell.bat
 node_modules/
-
+scripts/*
 skills-lock.json

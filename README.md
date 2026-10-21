@@ -1,6 +1,14 @@
 <div align="center">
 
-# Kit
+<p align="center">
+  <img src="./assets/profile-wall-smooth.gif" width="100%" alt="Kit — Workspace Wall" />
+</p>
+
+<br />
+
+<h1 align="center">
+  <img src="./assets/profile-animation.gif" width="200" height="200" alt="Kit icon" align="center" />Kit
+</h1>
 
 **Full-stack Developer**  
 _Building practical products across modern web, distributed services, and mobile._
@@ -8,10 +16,6 @@ _Building practical products across modern web, distributed services, and mobile
 Binh Duong, Vietnam &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/kiet-lq) &nbsp;•&nbsp; [Email](mailto:kietluong.forwork@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/Nearrr1)
 
 <br />
-
-<p align="center">
-  <img src="./assets/profile-animation.gif" width="200" alt="Kit — Visual Accent" />
-</p>
 
 </div>
 
@@ -61,13 +65,28 @@ Binh Duong, Vietnam &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/kiet-
 
 #### Core Technologies
 
-```
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>&nbsp;&nbsp;
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" title="Vite" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;&nbsp;
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" title="Redux" /></a>&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" /></a>
+</p>
+
+<!-- ```
 Languages      │ TypeScript, JavaScript, Java, SQL, HTML5 / CSS3
 Frontend       │ React, Next.js (App Router), Vite, Tailwind CSS, Redux Toolkit, React Query
 Backend        │ Spring Boot 3, Spring Security, Spring Cloud Gateway, Eureka, JPA / Hibernate, RESTful APIs
 Mobile         │ React Native, Expo (StockSense, GoGoTalk)
 Data & Tools   │ MongoDB Atlas, Vitest, ESLint, Maven, pnpm / npm, Git, Docker
-```
+``` -->
 
 #### Areas for Customization _(Fill before publishing)_
 
@@ -86,9 +105,13 @@ Data & Tools   │ MongoDB Atlas, Vitest, ESLint, Maven, pnpm / npm, Git, Docker
 
 ---
 
-<p align="center">
-  <img src="./assets/wallpaper.gif" width="100%" alt="Kit — Workspace Wall" />
-</p>
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nearrr1/Nearrr1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nearrr1/Nearrr1/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Nearrr1/Nearrr1/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 <br />
 
